@@ -6,7 +6,7 @@ public class Quiz {
         String[][] options = {
                 {"Paris", "London", "Berlin", "Rome"},
                 {"Yen", "Dollar", "Euro", "Pound"},
-                {"Jupiter", "Saturn", "Uranus", "Neptune"}
+                {"Jupiter", "Saturn", "Pluto", "Uranus", "Neptune"}
         };
         String[] answers = {"Paris", "Yen", "Jupiter"};
 
