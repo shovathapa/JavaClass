@@ -10,7 +10,7 @@ public class Quiz {
                 "Who discovered DNA?",
                 "What is the most abundant gas in the Earth's atmosphere?"
         };
-
+    
         // Create a 2D array of options for each question
         String[][] options = {
                 {"Au", "Ag", "Pt", "Fe"},
